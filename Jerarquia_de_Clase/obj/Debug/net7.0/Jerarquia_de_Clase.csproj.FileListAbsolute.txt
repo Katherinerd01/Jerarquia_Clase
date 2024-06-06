@@ -1,0 +1,4 @@
+C:\Users\ana_m\OneDrive\Documentos\Jerarquia_Clases\Jerarquia_de_Clase\Jerarquia_de_Clase\obj\Debug\net7.0\Jerarquia_de_Clase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ana_m\OneDrive\Documentos\Jerarquia_Clases\Jerarquia_de_Clase\Jerarquia_de_Clase\obj\Debug\net7.0\Jerarquia_de_Clase.AssemblyInfoInputs.cache
+C:\Users\ana_m\OneDrive\Documentos\Jerarquia_Clases\Jerarquia_de_Clase\Jerarquia_de_Clase\obj\Debug\net7.0\Jerarquia_de_Clase.AssemblyInfo.cs
+C:\Users\ana_m\OneDrive\Documentos\Jerarquia_Clases\Jerarquia_de_Clase\Jerarquia_de_Clase\obj\Debug\net7.0\Jerarquia_de_Clase.csproj.CoreCompileInputs.cache
